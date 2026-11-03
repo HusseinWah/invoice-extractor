@@ -1,0 +1,21 @@
+file,invoice_number,supplier,invoice_date,due_date,currency,subtotal,vat,total,trap
+invoice_01.pdf,INV-2026-0407,Delta Paper & Print Co.,2026-09-02,2026-10-02,EGP,8000.00,1120.00,9120.00,
+invoice_02.pdf,26026,Cairo Cable Works,2026-09-05,2026-09-20,EGP,20640.00,2889.60,23529.60,
+invoice_03.pdf,SI/26/00093,Pyramids Furniture Factory,2026-09-08,2026-10-08,EGP,39500.00,5530.00,45030.00,Has a PO number next to the invoice number
+invoice_04.pdf,TI-64937,Alex Packaging Solutions,2026-09-10,2026-10-25,EGP,194.00,27.16,221.16,
+invoice_05.pdf,INV-2026-0435,Sinai Steel Fixtures,2026-09-14,2026-10-14,EGP,14720.00,0.00,14720.00,
+invoice_06.pdf,26078,Horus IT Services,2026-09-17,2026-09-24,EGP,61400.00,8596.00,69996.00,
+invoice_07.pdf,TI-49354,Zamalek Cleaning Services,2026-09-21,,EGP,25440.00,3561.60,29001.60,"No due date printed, only 'Net 30 from delivery' - correct answer is empty"
+invoice_08.pdf,SI/26/00248,Red Sea Logistics,2026-09-24,2026-10-24,EGP,55700.00,0.00,55700.00,
+invoice_09.pdf,INV-2026-0463,Horus IT Services,2026-09-28,2026-10-28,USD,1523.72,0.00,1523.72,"Amounts in USD, not EGP"
+invoice_10.pdf,26130,Delta Paper & Print Co.,2026-10-01,2026-10-31,EGP,9950.00,1393.00,11343.00,
+invoice_11.pdf,,Cairo Cable Works,2026-10-03,2026-11-02,EGP,18485.00,2587.90,21072.90,No invoice number printed - correct answer is empty
+invoice_12.pdf,TI-26952,Pyramids Furniture Factory,2026-10-06,2026-12-05,EGP,30100.00,4214.00,34314.00,
+invoice_13.pdf,INV-2026-0491,Alex Packaging Solutions,2026-10-09,2026-11-08,EGP,9036.00,1265.04,10301.04,
+invoice_14.pdf,26182,Sinai Steel Fixtures,2026-10-12,2026-11-11,EGP,6150.00,774.90,6309.90,Has a 10% discount line
+invoice_15.pdf,INV-2026-0505,Zamalek Cleaning Services,2026-10-15,2026-10-29,EGP,34105.00,4774.70,38879.70,
+invoice_16.pdf,SI/26/00496,Red Sea Logistics,2026-10-03,2026-11-02,EGP,180800.00,0.00,180800.00,Date written as '3rd Oct 2026'
+invoice_17.pdf,TI-93137,Delta Paper & Print Co.,2026-10-20,2026-11-19,EGP,9270.00,1297.80,10567.80,
+invoice_18.pdf,INV-2026-0526,Pyramids Furniture Factory,2026-10-22,2026-11-21,EGP,19700.00,2758.00,22458.00,Scanned image - no text layer
+invoice_19.pdf,SI/26/00589,Horus IT Services,2026-10-26,2026-11-25,EGP,39800.00,5572.00,45372.00,
+invoice_20.pdf,26260,Cairo Cable Works,2026-10-29,2026-11-28,EGP,13400.00,1876.00,15276.00,

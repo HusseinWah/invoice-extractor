@@ -1,0 +1,8 @@
+.env
+.venv
+.env*
+.DS_Store
+.ipynb_checkpoints/
+.agents/
+.claude/
+_review/
